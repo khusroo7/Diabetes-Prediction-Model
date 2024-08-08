@@ -52,7 +52,6 @@ Applying Logistic Regression to the training data.
 4. Model Evaluation:
 <br>
 Testing the model on unseen data.
-<br>
 Evaluating performance using metrics such as accuracy, precision, recall, confusion matrix, and classification report.
 <br>
 
