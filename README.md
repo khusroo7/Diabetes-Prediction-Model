@@ -1,9 +1,11 @@
 # Diabetes-Prediction-Model
 Project Overview
 <br>
+
 This project focuses on developing a predictive model for diabetes using Logistic Regression, a popular statistical method for binary classification problems. The primary objective is to leverage various health-related features to predict whether an individual is likely to develop diabetes. The model is built on a dataset sourced from Kaggle, which includes a range of medical and demographic variables that are commonly associated with diabetes risk.
+
 <br>
-Dataset Description
+Dataset Description:
 <br>
 The dataset used for this project contains several key features that are relevant to predicting diabetes:
 <br>
@@ -34,8 +36,7 @@ Key Steps in the Model Development:
 Data Preprocessing:
 <br>
 1. Handling missing values.
-2. <br>
-Normalizing and scaling features where necessary.
+2. Normalizing and scaling features where necessary.
 <br>
 Splitting the data into training and testing sets.
 <br>
