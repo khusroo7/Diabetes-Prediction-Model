@@ -27,9 +27,11 @@ Age: The age of the patient.
 <br>
 The target variable, Outcome, is binary and indicates whether the patient has diabetes (1) or not (0).
 <br>
+
 Model Development
 <br>
 Logistic Regression was chosen as the modeling technique due to its simplicity, interpretability, and effectiveness in binary classification problems. The model was trained on the dataset with the goal of identifying patterns in the features that correlate with the onset of diabetes.
+<br>
 
 Key Steps in the Model Development:
 <br>
@@ -38,18 +40,22 @@ Data Preprocessing:
 1. Handling missing values.
 2. Normalizing and scaling features where necessary.
 <br>
+
 Splitting the data into training and testing sets.
 <br>
+
 3. Model Training:
 <br>
 Applying Logistic Regression to the training data.
 <br>
+
 4. Model Evaluation:
 <br>
 Testing the model on unseen data.
 <br>
 Evaluating performance using metrics such as accuracy, precision, recall, confusion matrix, and classification report.
 <br>
+
 Model Evaluation
 <br>
 The performance of the model was rigorously evaluated to ensure its predictive capability:
