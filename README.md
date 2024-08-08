@@ -2,7 +2,7 @@
 Project Overview
 <br>
 
-This project focuses on developing a predictive model for diabetes using Logistic Regression, a popular statistical method for binary classification problems. The primary objective is to leverage various health-related features to predict whether an individual is likely to develop diabetes. The model is built on a dataset sourced from Kaggle, which includes a range of medical and demographic variables that are commonly associated with diabetes risk.
+This project focuses on developing a predictive model for diabetes using Logistic Regression and Support Vector Machine, a popular statistical method for binary classification problems. The primary objective is to leverage various health-related features to predict whether an individual is likely to develop diabetes. The model is built on a dataset sourced from Kaggle, which includes a range of medical and demographic variables that are commonly associated with diabetes risk.
 
 <br>
 Dataset Description:
@@ -46,7 +46,7 @@ Splitting the data into training and testing sets.
 
 3. Model Training:
 <br>
-Applying Logistic Regression to the training data.
+Applying Logistic Regression and SVM to the training data.
 <br>
 
 4. Model Evaluation:
